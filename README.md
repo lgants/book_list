@@ -1,3 +1,5 @@
+Created with assistance of tutorial in "Modern React with Redux" by Stephen Grider on Udemy
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
